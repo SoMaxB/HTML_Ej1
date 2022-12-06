@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <h1>Mis primeras lineas</h1>
+        <div>
+            <p>Este es mi primer comentario de dos líneas</p>
+        </div>
+        <div>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        </div>
+        <div>
+            <h4>Lista de videos de YT</h4>
+            <ul>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=hbtcv-xVSQs">MACRO VARIATIONS for GUITAR FX in ABLETON LIVE 11</a> </li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=f0TrMH9s-VE&t">Python Classes and Objects</a> </li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=HRSGWDCVKIA">25 TRATAMIENTOS MÉDICOS antiguos que hoy serían un HORROR</a> </li>
+            </ul>
+        </div>
+    </body>
+</html>
